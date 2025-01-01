@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm John Oduor 👋
 
   💻 **Frontend Enthusiast**  
 🌐 Specializing in **React**, **JavaScript**, **HTML**, and **CSS**
