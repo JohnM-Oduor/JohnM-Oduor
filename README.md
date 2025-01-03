@@ -3,6 +3,14 @@
 💻 **Frontend Enthusiast**  
 🌐 Specializing in **React**, **JavaScript**, **HTML**, and **CSS**  
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Frontend+Enthusiast;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+%26+Improving" alt="Typing SVG" />
+</p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cartoon Person Working on Computer" height="300px"width="500px" />
+</p>
+
 ---
 
 ## 🚀 About Me  
@@ -25,3 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JohnM-Oduor&show_icons=true&theme=radical&hide_title=true&card_width=400" alt="GitHub Stats" width="49%" height="150px" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnM-Oduor&layout=compact&theme=radical&card_width=320" alt="Top Languages" width="49%" height="150px" />  
 </div>
+ 
