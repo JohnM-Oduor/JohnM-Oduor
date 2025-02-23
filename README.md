@@ -1,11 +1,11 @@
 # Hi there, I'm John Oduor 👋  
 
-💻 **Frontend Enthusiast**  
-🌐 Specializing in **React**, **JavaScript**, **HTML**, and **CSS**  
+I am a skilled DevOps engineer with a strong background in web development, proficient in HTML 🌐, CSS 🎨, React ⚛️, and JavaScript 💻. I enjoy creating dynamic and visually appealing user interfaces while integrating various icons 🔣 to enhance design and functionality. Beyond coding, I have a passion for music 🎵 and play multiple musical instruments 🎻🎹🎷, allowing me to express creativity both in technology and the arts. My ability to blend technical skills ⚙️ with artistic expression 🎭 makes me a well-rounded and innovative individual.
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Frontend+Enthusiast;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+%26+Improving" alt="Typing SVG" />
 </p>
+
 
 <p align="left">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cartoon Person Working on Computer" height="300px"width="500px" />
