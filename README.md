@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm **John Oduor**
 
-🚀 **DevOps Engineer | Frontend Developer | Musician**  
+🚀 **Frontend Developer | Musician**  
 
-I’m a passionate **DevOps engineer** with a strong foundation in **web development**, skilled in **React ⚛️, JavaScript 💻, HTML 🌐, and CSS 🎨**.  
+I’m a passionate  **web development**, skilled in **React ⚛️, JavaScript 💻, HTML 🌐, and CSS 🎨**.  
 I love crafting dynamic and responsive user interfaces while building reliable and scalable systems behind the scenes.  
-Outside of coding, you’ll find me expressing creativity through **music 🎶** — I play multiple instruments including the **double bass, violin, clarinet, and flute**.  
+Outside of coding, you’ll find me expressing creativity through **music 🎶** — I play multiple instruments including the **double bass**.  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Things;Blending+Tech+%26+Art+🎭" alt="Typing SVG" />
