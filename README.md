@@ -7,8 +7,9 @@ I love crafting dynamic and responsive user interfaces while building reliable a
 Outside of coding, you’ll find me expressing creativity through **music 🎶** — I play multiple instruments including the **double bass, violin, clarinet, and flute**.  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Web+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Things;Blending+Tech+%26+Art+🎭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Things;Blending+Tech+%26+Art+🎭" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -16,7 +17,6 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 - 🌱 Constantly improving in **DevOps automation**, **cloud deployment**, and **frontend performance**.  
 - 🎸 Music lover when not coding — creativity fuels both my art and engineering.  
 - 🤝 Open to collaborations on **innovative and impactful projects**.  
-- 💬 Ask me about **web apps**, **CI/CD**, or **creative coding**.
 
 ---
 
@@ -31,8 +31,6 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 
 ### ⚙️ DevOps & Tools
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -43,9 +41,8 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 > Together, they create harmony.”
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding" width="450" />
 </p>
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -60,11 +57,9 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 ## 🌐 **Let's Connect**
 <p align="left">
   <a href="mailto:johnoduor.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/johnoduor"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/JohnM-Oduor"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐ *“Quality Education is the Key to Success”*  
-Made with ❤️ by **John Oduor**
+
