@@ -14,7 +14,7 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 ---
 
 ## 💡 **About Me**
-- 🌱 Constantly improving in **DevOps automation**, **cloud deployment**, and **frontend performance**.  
+- 🌱 Constantly improving in **Frontend development** and **frontend performance**.  
 - 🎸 Music lover when not coding — creativity fuels both my art and engineering.  
 - 🤝 Open to collaborations on **innovative and impactful projects**.  
 
