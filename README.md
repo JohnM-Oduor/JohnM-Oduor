@@ -56,7 +56,7 @@ Outside of coding, you’ll find me expressing creativity through **music 🎶**
 
 ## 🌐 **Let's Connect**
 <p align="left">
-  <a href="mailto:johnoduor.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:oduorjohn104@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/JohnM-Oduor"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
