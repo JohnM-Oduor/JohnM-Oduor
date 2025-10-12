@@ -1,36 +1,70 @@
-# Hi there, I'm John Oduor 👋  
+# 👋 Hi there, I'm **John Oduor**
 
-I am a skilled DevOps engineer with a strong background in web development, proficient in HTML 🌐, CSS 🎨, React ⚛️, and JavaScript 💻. I enjoy creating dynamic and visually appealing user interfaces while integrating various icons 🔣 to enhance design and functionality. Beyond coding, I have a passion for music 🎵 and play multiple musical instruments 🎻🎹🎷, allowing me to express creativity both in technology and the arts. My ability to blend technical skills ⚙️ with artistic expression 🎭 makes me a well-rounded and innovative individual.
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0000FF&width=435&lines=Frontend+Enthusiast;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+%26+Improving" alt="Typing SVG" />
+🚀 **DevOps Engineer | Frontend Developer | Musician**  
+
+I’m a passionate **DevOps engineer** with a strong foundation in **web development**, skilled in **React ⚛️, JavaScript 💻, HTML 🌐, and CSS 🎨**.  
+I love crafting dynamic and responsive user interfaces while building reliable and scalable systems behind the scenes.  
+Outside of coding, you’ll find me expressing creativity through **music 🎶** — I play multiple instruments including the **double bass, violin, clarinet, and flute**.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%26+Web+Developer;React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+Learning+New+Things;Blending+Tech+%26+Art+🎭" alt="Typing SVG" />
 </p>
 
+---
 
+## 💡 **About Me**
+- 🌱 Constantly improving in **DevOps automation**, **cloud deployment**, and **frontend performance**.  
+- 🎸 Music lover when not coding — creativity fuels both my art and engineering.  
+- 🤝 Open to collaborations on **innovative and impactful projects**.  
+- 💬 Ask me about **web apps**, **CI/CD**, or **creative coding**.
 
-<p align="left">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cartoon Person Working on Computer" height="300px"width="500px" />
+---
+
+## 🛠️ **Technologies & Tools**
+
+### 💻 Development
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ DevOps & Tools
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## 🎵 **Creativity & Balance**
+> “Code is logic. Music is emotion.  
+> Together, they create harmony.”
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="450" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Bridging the gap between development and operations.  
-- 🎸 Music enthusiast when not coding 🎵!  
-- 🤝 Open to collaborations on impactful projects.  
+## 📊 **GitHub Stats**
 
----
-
-## 🔧 Technologies & Tools  
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnM-Oduor&show_icons=true&theme=radical&hide_title=true&card_width=400" alt="GitHub Stats" width="49%" height="150px" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnM-Oduor&layout=compact&theme=radical&card_width=320" alt="Top Languages" width="49%" height="150px" />  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnM-Oduor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnM-Oduor&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </div>
- 
+
+---
+
+## 🌐 **Let's Connect**
+<p align="left">
+  <a href="mailto:johnoduor.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/johnoduor"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/JohnM-Oduor"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ *“Quality Education is the Key to Success”*  
+Made with ❤️ by **John Oduor**
